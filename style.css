@@ -1,0 +1,63 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+.content
+{
+	width: 400px;
+	margin: 0 auto;
+}
+
+.dangkythanhvien{
+	width: 400px;
+	border: 1px solid #DDDDDD;
+	margin-top: 60px;
+	
+}
+.dangkythanhvien h3{
+	background: #009688;
+	padding: 5px;
+	color: #FFF;
+	text-align: center;
+}
+.dangkythanhvien form table tr td
+{
+	padding: 5px;
+}
+
+.dangkythanhvien form table tr td input
+{
+	padding: 3px 5px;
+}
+
+.list{
+	background: yellow;
+	padding: 5px;
+	border-radius: 10px;
+	margin: 5px;
+}
+
+.danhsach{
+	width: 800px;
+	margin: auto;
+	margin-top: 50px;
+}
+
+.danhsach table{
+	width: 800px;
+	border: 1px solid #999999;
+}
+
+.danhsach h3{
+	background: #009688;
+	color: #FFF;
+	text-align: center;
+	padding: 5px;
+}
+
+.timkiem{
+	margin: auto;
+	margin-top: 50px;
+	width: 800px;
+}
